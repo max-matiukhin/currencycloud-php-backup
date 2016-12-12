@@ -1,6 +1,7 @@
 {
   "name": "currency-cloud/client",
   "type": "library",
+  "version": "0.8.0",
   "authors": [
     {
       "name": "CurrencyCloud",

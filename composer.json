@@ -1,7 +1,7 @@
 {
   "name": "max-currency-cloud/client",
   "type": "library",
-  "version": "0.8.1",
+  "version": "0.10.0",
   "authors": [
     {
       "name": "CurrencyCloud",
@@ -17,8 +17,8 @@
   "require": {
     "php": ">=5.5",
     "guzzlehttp/guzzle": "~6.1",
-    "symfony/yaml": "3.1.2",
-    "symfony/event-dispatcher": "3.1.2"
+    "symfony/yaml": "~3.1|~2.7",
+    "symfony/event-dispatcher": "~3.1|~2.7"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.7",
